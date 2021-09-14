@@ -1,0 +1,7 @@
+canvas {
+    font-size: calc(10 px * 20px);
+    background-color: cadetblue;
+    width: 500px;
+    height: 500px;
+    height:unset;
+}
