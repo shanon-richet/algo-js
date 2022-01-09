@@ -1,3 +1,3 @@
 ## Repeat function
 
-as much the number you write, so your favourite number is asked 
+The program ask a number, and repeat the question so much time the number given
